@@ -1,13 +1,19 @@
 
-# ITS_LIVE Explorer
+# [**ITS_LIVE** Global Glacier Velocity Exploration and Analysis](https://its-live.jpl.nasa.gov/) 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa-jpl/itslive-explorer/main?urlpath=lab/tree/notebooks)
+<img title="ITS_LIVE" src="notebooks/img/header.png" width="50%"/>
 
+Luis Lopez[<sup>1</sup>](#fn1), Alex Gardner[<sup>2</sup>](#fn2), Mark Fahnestock[<sup>3</sup>](#fn3), Ted Scambos[<sup>4</sup>](#fn4), Maria Liukis[<sup>2</sup>](#fn2), Chad Greene[<sup>2</sup>](#fn2), Yang Lei[<sup>5</sup>](#fn5), Joe Kennedy[<sup>3</sup>](#fn3),  Bruce Wallin[<sup>1</sup>](#fn1)
+ 
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/nasa-jpl/itslive-explorer/main?urlpath=lab/tree/notebooks/LL_01_ITS_LIVE_global_glacier_velocity_exploration_and_analysis.ipynb)
+
+<span id="fn1" style="font-size: small">1.National Snow and Ice Data Center</span>
+<span id="fn2" style="font-size: small">2.NASA Jet Propulsion Laboratory</span>
+<span id="fn3" style="font-size: small">3.University of Alaska Fairbanks</span>
+<span id="fn4" style="font-size: small">4.University of Colorado Earth Science and Observation Center</span>
+<span id="fn5" style="font-size: small">5.California Institute of Technology</span>
 
 ## Summary
-
-
-### [ITS_LIVE](./notebooks)
 
 **Global land ice velocities.**
 The Inter-mission Time Series of Land Ice Velocity and Elevation (ITS_LIVE) project facilitates ice sheet, ice shelf and glacier research by providing a globally comprehensive and temporally dense multi-sensor record of land ice velocity and elevation with low latency. Scene-pair velocities were generated from satellite optical and radar imagery.
@@ -170,3 +176,4 @@ This software is developed by the National Snow and Ice Data Center with funding
 ## License
 
 This repository is licensed under the MIT license. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
