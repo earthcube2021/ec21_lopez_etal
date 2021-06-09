@@ -7,10 +7,10 @@ Luis Lopez[<sup>1</sup>](#fn1), Alex Gardner[<sup>2</sup>](#fn2), Mark Fahnestoc
  
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2021/ec21_lopez_etal/main?urlpath=lab/tree/notebooks/LL_01_ITS_LIVE_global_glacier_velocity_exploration_and_analysis.ipynb)
 
-<span id="fn1" style="font-size: small">1.National Snow and Ice Data Center</span>
-<span id="fn2" style="font-size: small">2.NASA Jet Propulsion Laboratory</span>
-<span id="fn3" style="font-size: small">3.University of Alaska Fairbanks</span>
-<span id="fn4" style="font-size: small">4.University of Colorado Earth Science and Observation Center</span>
+<span id="fn1" style="font-size: small">1.National Snow and Ice Data Center</span><BR>
+<span id="fn2" style="font-size: small">2.NASA Jet Propulsion Laboratory</span><BR>
+<span id="fn3" style="font-size: small">3.University of Alaska Fairbanks</span><BR>
+<span id="fn4" style="font-size: small">4.University of Colorado Earth Science and Observation Center</span><BR>
 <span id="fn5" style="font-size: small">5.California Institute of Technology</span>
 
 ## Summary
