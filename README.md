@@ -5,7 +5,7 @@
 
 Luis Lopez[<sup>1</sup>](#fn1), Alex Gardner[<sup>2</sup>](#fn2), Mark Fahnestock[<sup>3</sup>](#fn3), Ted Scambos[<sup>4</sup>](#fn4), Maria Liukis[<sup>2</sup>](#fn2), Chad Greene[<sup>2</sup>](#fn2), Yang Lei[<sup>5</sup>](#fn5), Joe Kennedy[<sup>3</sup>](#fn3),  Bruce Wallin[<sup>1</sup>](#fn1)
  
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/nasa-jpl/itslive-explorer/main?urlpath=lab/tree/notebooks/LL_01_ITS_LIVE_global_glacier_velocity_exploration_and_analysis.ipynb)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2021/ec21_lopez_etal/main?urlpath=lab/tree/notebooks/LL_01_ITS_LIVE_global_glacier_velocity_exploration_and_analysis.ipynb)
 
 <span id="fn1" style="font-size: small">1.National Snow and Ice Data Center</span>
 <span id="fn2" style="font-size: small">2.NASA Jet Propulsion Laboratory</span>
