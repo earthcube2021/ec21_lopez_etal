@@ -1,0 +1,16 @@
+{
+    "title": "ITS_LIVE Global Glacier Velocity Exploration and Analysis",
+    "creators": [
+         {"name": "Luis Lopez", "affiliation": "National Snow and Ice Data Center"},
+    {"name": "Alex Gardner", "affiliation": "NASA Jet Propulsion Laboratory",   "orcid": "0000-0002-8394-8889"},
+    {"name": "Mark Fahnestock", "affiliation": "University of Alaska Fairbanks" },
+    {"name": "Ted Scambos", "affiliation": "University of Colorado Earth Science and Observation Center" },
+    {"name": "Maria Liukis", "affiliation": "NASA Jet Propulsion Laboratory" },
+    {"name": "Chad Greene", "affiliation": "NASA Jet Propulsion Laboratory" },
+    {"name": "Yang Lei", "affiliation": "California Institute of Technology" },
+    {"name": "Joe Kennedy", "affiliation": "University of Alaska ASF" },
+    {"name": "Bruce Wallin", "affiliation": "National Snow and Ice Data Center",  "orcid": "0000-0002-4928-1814"}
+         
+    ],
+    "keywords": ["glacier", "surface", "velocity", "dataset", "nasa"]
+}
