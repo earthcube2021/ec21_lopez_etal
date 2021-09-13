@@ -1,6 +1,10 @@
 
 # [**ITS_LIVE** Global Glacier Velocity Exploration and Analysis](https://its-live.jpl.nasa.gov/) 
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5496304.svg)](https://doi.org/10.5281/zenodo.5496304)
+
+
 <img title="ITS_LIVE" src="notebooks/img/header.png" width="50%"/>
 
 Luis Lopez[<sup>1</sup>](#fn1), Alex Gardner[<sup>2</sup>](#fn2), Mark Fahnestock[<sup>3</sup>](#fn3), Ted Scambos[<sup>4</sup>](#fn4), Maria Liukis[<sup>2</sup>](#fn2), Chad Greene[<sup>2</sup>](#fn2), Yang Lei[<sup>5</sup>](#fn5), Joe Kennedy[<sup>3</sup>](#fn3),  Bruce Wallin[<sup>1</sup>](#fn1)
